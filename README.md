@@ -30,6 +30,3 @@ LTV чемпионов в 9.34 раза выше, чем средний LTV ос
 - Python (Pandas) - анализ
 - Seaborn - визуализация
 - Google Colab - среда
-
-**Ссылки**:
-- [Ноутбук в Github](https://github.com/oleg-insights/RFM-LTV-CAC-Optimization/blob/main/Online_Retail.ipynb)
